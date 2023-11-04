@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# overview
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was donne using react and integrated with jsonforms in this code we can perform CURD operations
 
 ## Available Scripts
 
