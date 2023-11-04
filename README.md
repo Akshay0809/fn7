@@ -2,9 +2,10 @@
 
 This project was donne using react and integrated with jsonforms in this code we can perform CURD operations
 
-## Available Scripts
+## link for app
 
-In the project directory, you can run:
+https://akshay0809.github.io/fn7/
+
 
 ### `npm start`
 
